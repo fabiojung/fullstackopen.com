@@ -1,4 +1,4 @@
-## Creating a new note diagram
+## Creating a new note
 
 ```
 title Creating a new note (HTTP POST)

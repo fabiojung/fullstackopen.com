@@ -1,4 +1,4 @@
-## Loading Single Page Application diagram
+## Loading Single Page Application
 
 ```
 title Loading SPA
