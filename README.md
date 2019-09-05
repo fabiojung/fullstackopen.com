@@ -11,8 +11,8 @@ fullstackopen.com course exercises
   - [x] 0.6: New note [[instructions][link0]] [[solution](./part0/new_note_spa.md)]
 
 - [ ] [part1][part1] - Introduction to React ![in progress][progress]
-  - [ ] 1.1: course information step1 [[instructions][link1]]
-  - [ ] 1.2: course information step2 [[instructions][link1]]
+  - [x] 1.1: course information step1 [[instructions][link1]]
+  - [x] 1.2: course information step2 [[instructions][link1]]
   - [ ] 1.3: course information step3 [[instructions][link2]]
   - [ ] 1.4: course information step4 [[instructions][link2]]
   - [ ] 1.5: course information step5 [[instructions][link2]]
