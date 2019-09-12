@@ -1,6 +1,6 @@
 {
-  "name": "courseinfo",
-  "version": "0.1.5",
+  "name": "anecdotes",
+  "version": "0.1.14",
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
