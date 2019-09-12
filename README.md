@@ -21,7 +21,7 @@ fullstackopen.com course exercises
   - [x] 1.8: unicafe step3 [[instructions][link3]]
   - [x] 1.9: unicafe step4 [[instructions][link3]]
   - [x] 1.10: unicafe step5 [[instructions][link3]]
-  - [ ] 1.11*: unicafe step6 [[instructions][link3]]
+  - [x] 1.11*: unicafe step6 [[instructions][link3]]
   - [ ] 1.12*: anecdotes step1 [[instructions][link3]]
   - [ ] 1.13*: anecdotes step2 [[instructions][link3]]
   - [ ] 1.14*: anecdotes step3 [[instructions][link3]]
